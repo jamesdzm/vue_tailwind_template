@@ -1,4 +1,4 @@
-# vue_ipaas
+# VueJS + Vue Router + TailwindCSS project template
 
 ## Project setup
 ```
